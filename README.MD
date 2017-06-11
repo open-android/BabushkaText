@@ -6,11 +6,10 @@
 
 ![Logo](images/example.png)
 
-Example
---------
-Generate the following style:
+项目总贴地址：https://github.com/open-android/Android
 
-![NewY York](images/newyork.png)
+## 使用步骤如下：
+--------
 
 ### 第一步. 在项目的根目录build.gradle添加依赖
 
